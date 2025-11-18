@@ -148,7 +148,7 @@ Tư vấn liên kết đào tạo quốc tế:
 
 
 **Kết nối TDTU**
-[![](https://admission.tdtu.edu.vn/sites/admission/files/Home/logo/Facebook-new.png)](https://www.facebook.com/tonducthanguniversity/) [ ![](https://admission.tdtu.edu.vn/sites/admission/files/Home/logo/Youtube-new.png)](https://www.youtube.com/TDTUChannel) [ ![](https://admission.tdtu.edu.vn/sites/admission23/files/Admission-2023/icon/tik-tok.png)](https://www.tiktok.com/@tdtuchannel) [ ![](https://admission.tdtu.edu.vn/sites/admission/files/Home/logo/linkedin.png)](https://www.linkedin.com/school/ton-duc-thang-university)[![Zalo](https://admission.tdtu.edu.vn/sites/admission23/files/logo-zalo-1.png)](https://zalo.me/1033215086931577865)
+[![](https://admission.tdtu.edu.vn/sites/admission/files/Home/logo/Facebook-new.png)](https://www.facebook.com/tonducthanguniversity/) [ ![](https://admission.tdtu.edu.vn/sites/admission/files/Home/logo/Youtube-new.png)](https://www.youtube.com/TDTUChannel) [ ![](https://admission.tdtu.edu.vn/sites/admission23/files/Admission-2023/icon/tik-tok.png)](https://www.tiktok.com/@tdtuchannel) [ ![](https://admission.tdtu.edu.vn/sites/admission/files/Home/logo/linkedin.png)](https://www.linkedin.com/school/ton-duc-thang-university)[![Zalo](https://admission.tdtu.edu.vn/sites/admission23/files/logo-zalo-1.png)](https://zalo.me/daihoctonducthang)
 ## Hỗ trợ
   * [Học phí - học bổng](https://admission.tdtu.edu.vn/hoc-tai-tdtu/hoc-phi-hoc-bong-2025)
   * [Ký túc xá](https://admission.tdtu.edu.vn/thong-tin-ky-tuc-xa-truong-dai-hoc-ton-duc-thang)

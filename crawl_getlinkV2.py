@@ -246,4 +246,4 @@ if __name__ == "__main__":
 
 
 # python .\crawl_getlinkV2.py -u "https://tuyensinh.ntu.edu.vn/tuyen-sinh/thong-tin-tuyen-sinh-2025" --save my_links_ntu_img_v2
-# python .\crawl_getlinkV2.py -u "https://admission.tdtu.edu.vn/" --save my_links_TDTU_v3
+# python .\crawl_getlinkV2.py -u "https://admission.tdtu.edu.vn/" --save my_links_TDTU_v2
